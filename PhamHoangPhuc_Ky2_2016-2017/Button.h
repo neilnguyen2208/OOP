@@ -7,6 +7,7 @@ public:
     ~Button();
     void nhap();
 };
+// 
 Button::Button()
 {
 }

@@ -7,6 +7,7 @@ public:
     ~Label();
     void nhap();
 };
+// 
 Label::Label()
 {
 }

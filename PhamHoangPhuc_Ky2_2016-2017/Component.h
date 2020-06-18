@@ -8,7 +8,7 @@ protected:
     string text;
     int mauText;
     int mauNen;
-
+// 
 public:
     Component(/* args */);
     virtual int getMauText()
