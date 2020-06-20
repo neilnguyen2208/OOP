@@ -5,4 +5,4 @@
 #### Lời giải có sự tham gia đóng góp của:
 
 #### 1. Phạm Hoàng Phúc
-#### 1. Nguyễn Phạm Lam Duy
+#### 2. Nguyễn Phạm Lam Duy
