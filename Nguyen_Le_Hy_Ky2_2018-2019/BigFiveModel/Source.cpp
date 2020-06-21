@@ -80,4 +80,10 @@ int main() {
 	cin >> viTri;
 	Xuat1(p, viTri - 1);
 	NguyCo(p, soLuong);
+	for (int i = 0; i <= soLuong * 5; i++) {
+		delete[] p[i];
+	}
+	delete[] p;
+	system("pause");
+	return 0; 
 }
