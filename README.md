@@ -7,5 +7,5 @@
 #### 1. Phạm Hoàng Phúc
 #### 2. Nguyễn Phạm Lam Duy
 #### 3. Nguyễn Lê Hy
-#### 4. Phạm Khải Đăng
+#### 4. Nguyễn Khải Đăng
 #### 4. Vưu Hoàng Phạm Tấn
