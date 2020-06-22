@@ -6,7 +6,7 @@
 
 #### 1. Phạm Ngọc Tân
 #### 2. Phạm Hoàng Phúc
-#### 3. Nguyễn Phạm Lam Duy
+#### 3. Nguyễn Phạm Lâm Duy
 #### 4. Nguyễn Lê Hy
 #### 5. Nguyễn Khải Đăng
 
