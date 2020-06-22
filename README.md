@@ -4,8 +4,9 @@
 
 #### Lời giải có sự tham gia đóng góp của:
 
-#### 1. Phạm Hoàng Phúc
-#### 2. Nguyễn Phạm Lam Duy
-#### 3. Nguyễn Lê Hy
-#### 4. Nguyễn Khải Đăng
-#### 5. Vưu Hoàng Phạm Tấn
+#### 1. Phạm Ngọc Tân
+#### 2. Phạm Hoàng Phúc
+#### 3. Nguyễn Phạm Lam Duy
+#### 4. Nguyễn Lê Hy
+#### 5. Nguyễn Khải Đăng
+#### 6. Vưu Hoàng Phạm Tấn
